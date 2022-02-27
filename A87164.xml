@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect divrnall of all the passages and proceedings betwixt the Lord Generalls, and Col. Gorings army, since his Excellency first marcht into Essex. Being continued, from Saturday the 10. of June, till Tuesday the 20. of the same. Also an exact relation of a late fight betwixt a part of his Excellencies, and a party of Col. Gorings Horse, that were sent to fetch in provisions (on Saturday the 17. instant) and the event thereof. Together, with the resolution of Col. Gorings Foot, and their determination to detain him and the rest of his Commanders with them in the town.</title>
+            <author>L. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87164</idno>
+            <idno type="STC">Wing H90</idno>
+            <idno type="STC">Thomason E448_23</idno>
+            <idno type="EEBO-CITATION">99864434</idno>
+            <idno type="PROQUEST">99864434</idno>
+            <idno type="VID">161843</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161843)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E448[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect divrnall of all the passages and proceedings betwixt the Lord Generalls, and Col. Gorings army, since his Excellency first marcht into Essex. Being continued, from Saturday the 10. of June, till Tuesday the 20. of the same. Also an exact relation of a late fight betwixt a part of his Excellencies, and a party of Col. Gorings Horse, that were sent to fetch in provisions (on Saturday the 17. instant) and the event thereof. Together, with the resolution of Col. Gorings Foot, and their determination to detain him and the rest of his Commanders with them in the town.</title>
+                  <author>L. H.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norwich, George Goring, --  Earl of, 1583?-1663 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Essex (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161843:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <p>A PERFECT DIVRNALL OF ALL THE PASSAGES AND PROCEEDINGS BETWIXT The Lord Generalls, and Col. <hi>Gorings</hi> Army, ſince his Excellency firſt marcht into <hi>Eſſex.</hi>
+            </p>
+            <p>Being continued, from <hi>Saturday</hi> the 10. of <hi>June,</hi> till <hi>Tueſday</hi> the 20. of the ſame.</p>
+            <p>Alſo an exact Relation of a late Fight be<g ref="char:EOLhyphen"/>twixt a party of his <hi>Excellencies,</hi> and a pa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty of Col. <hi>Gorings</hi> Horſe, that were ſent to fetch in Pro<g ref="char:EOLhyphen"/>viſions (on <hi>Saturday</hi> the 17. Inſtant) and the event thereof.</p>
+            <p>TOGETHER, With the Reſolution of Col. GORINGS Foot, and their determination to detain him and the reſt of his Commanders with them in the Town. <add>June 20th</add>
+            </p>
+            <p>LONDON. Printed for <hi>R. W.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161843:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <pb n="1" facs="tcp:161843:2"/>
+            <!-- PDF PAGE 19 -->
+            <head>A perfect <hi>Diuinall</hi> of all the Paſsages that hath happened between his Ex<g ref="char:EOLhyphen"/>cellency and the Lord <hi>Goring,</hi> ſince his marching into <hi>Eſſex.</hi>
+            </head>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He which of this preſen <hi>Iune.</hi> his Excellency the Lord Gen. having quieted the <hi>Kentſhmen,</hi> and left that County in a very good condi<g ref="char:EOLhyphen"/>tion, it being all reduced again to the obedience of Parliament: ex<g ref="char:EOLhyphen"/>cept the Caſtles of <hi>Deal, Waymor, and Sandown;</hi> with ſuch Forces as his Excellency: could make, with much trouble, he croſſed the River and went into <hi>Eſſex,</hi> and quartered that night at <hi>Bil<g ref="char:EOLhyphen"/>lotbey,</hi> ſome of his Artillerie, with part of his horſe, marched through <hi>London,</hi> and met with the Army at their Rendevouz. The 11. of <hi>Iune,</hi> his Excellency with ſome halfe a ſcore of his horce, marched from <hi>Billotbey</hi> to <hi>Cogſhall,</hi> where he found Col. <hi>Whaley</hi> (who dilegently attended Col. <hi>Goring</hi> in his march) and
+<pb n="2" facs="tcp:161843:3"/>
+               <!-- PDF PAGE 20 -->
+Sir <hi>
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Honywood,</hi> with 2000. Eſſex men, who joyned with Col. <hi>Whaley</hi> &amp; had done very good ſervice ſome 3 dayes before, againſt a Troop of Reformadoes, that were going to the enem<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, in which fight the Eſſex men <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ed themſelves gallantly, &amp; with a party of their horſe charged them, ſlew divers of them and took 8. of them priſoners, the reſt through the ſwiftneſſe of their horſes eſcaped, <hi>Goring</hi> advanced from <hi>Chelmford</hi> to <hi>Leedes,</hi> where he took Guns, Horſe, and Armes, from m<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord of <hi>Warwicks</hi> houſe, and without making any haſt in this Town, marched immediately to <hi>Col<g ref="char:EOLhyphen"/>cheſter,</hi> where he quartered this night, and immediately he with Sir <hi>Charles Lucas,</hi> and the reſt gave order for the better ſecuring of the Town &amp; Suburbs that they ſhould plant certain peeces of Ordinance in the Mar<g ref="char:EOLhyphen"/>ket place, and in other convenient places, and ſent forth pa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ties to the ſeverall Towns and Villages adja<g ref="char:EOLhyphen"/>cent, to bring in proviſions both for horſe and men, juſtly fearing, left his Excellency with his forces, ſhould fall upon him, which (to his coſt) ſuddenly happened for his Excellency, having intelligence of <hi>Gorings</hi> motion, ſent forth preſent Orders for his for<g ref="char:EOLhyphen"/>ces to advance, and the 12. at night, part of his forces quartered within 6. miles of Colcheſter. On the 13. his Excellency had a Randevouz on Stanway Heath, 3. miles from Colcheſter, where it was concluded that they ſhould immediately fall on the enemy in the Sub<g ref="char:EOLhyphen"/>burbs of the Town, (for they could no way draw him forth to engage with them) Our Souldiers fell on deſperately, and the horſe perſued them, even to their Cannon mouthes, there was many ſlain on both ſides, and divers of quality on both ſides, amongſt the reſt,
+<pb n="3" facs="tcp:161843:3"/>
+               <!-- PDF PAGE 20 -->
+honeſt Col. <hi>Nedham,</hi> and Capt. <hi>Cox</hi> were ſlain on our part, which ſo ſtirred up our enraged Souldiers to re<g ref="char:EOLhyphen"/>venge their Commanders deaths, that they fell on like mad men, and undauntedly out-braid even death it ſelfe; and through their gallant deportment, drove the enemy with exceeding great loſſe) even to the Gates of the Town, killing and ſlaying them in a terrible manner. Our Souldiers having thus beaten the ene<g ref="char:EOLhyphen"/>my into the town retreated, and gathered their woun<g ref="char:EOLhyphen"/>ded Souldiers to have them dreſt, which were about 100. and took care for the buriall of their dead, which were in all 39. <hi>Gorings</hi> forces being glad that they were ſo well ſecured in the town, ſearching amongſt their dead, found the bodies of Sir <hi>William Compton,</hi> Col. <hi>Cook,</hi> and Major <hi>Eyres,</hi> whom they much lamented, alſo there was ſlain 20. Captains and other inferiour Officers, and 150. Souldiers. On the 14. his Excellen<g ref="char:EOLhyphen"/>cie ſent a Summons into the Town, a Copy hereof followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>My Lord,</hi>
+                     <lb/>
+J Am come hi<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her with the Parliaments forces to re<g ref="char:EOLhyphen"/>duce thoſe under your Command to the obedience of the Parliament, if your Lordſhip and thoſe under you will inſtantly lay down your Armes, there may be a prevention of much blood that is like to be ſpilt, and the Town preſerved from plunder and ruine, the evill muſt lie upon you, if you refuſe: I expect your preſent Anſwer, and remain</p>
+                  <closer>
+                     <dateline>Lexſon Heath,
+<date>June 13. 1648.</date>
+                     </dateline>
+                     <signed>Your ſervant <hi>Tho. Fairfax.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="4" facs="tcp:161843:4"/>
+               <!-- PDF PAGE 21 -->They ſlighted this ſummons, and the Earl of <hi>Nor<g ref="char:EOLhyphen"/>wich</hi> a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke the Trumpeter how the Generall did, telling him, That he heard he was ill of the Gout, but he would cure him of all diſe<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſes.</p>
+            <p>His Excellen<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> having received a letter from the Committee at <hi>Derby</hi> houſe, that Sir <hi>Willi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Maſſam</hi> a Parliament man, whom <hi>Goring</hi> had taken priſoner, was uſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d very diſc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſly by the enemy, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the 15 Inſtant ſent a letter to <hi>Goring,</hi> deſi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing he ſhould be u<g ref="char:EOLhyphen"/>ſed with more reſpect, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s became a Gentleman. The C<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>py whereof I have here inſerted.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>For the Commander in chiefe of the forces in <hi>Colcheſter</hi> theſe.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>J Underſtand you have in cuſtody Sir <hi>William Maſſam</hi> a Parliament man, and ſome other Gentlemen priſo<g ref="char:EOLhyphen"/>ners, I deſire you to permit this bearer to go and ſee in what condition they are, and what neceſſaries they want, that care may be taken for the ſupplying of them, I have about 500. priſoners of yours if you have any of my Souldiers priſoners, I deſire to know the number and quality of them, and ſhall ſend you as ma<g ref="char:EOLhyphen"/>ny in exchange, which ſhall be performed by mee</p>
+                  <closer>
+                     <signed>THOMAS FAIRFAX.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Lord <hi>Goring</hi> having received this, ſent by a Trumpeter of his own this enſuing letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>For the Lord Gen. <hi>Fairfax</hi> theſe,</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>WEE deſire you will by this Trumpeter ſend us a Liſt of all the Gentlemen, Officers, and Souldiers of our party, and under our Command that are now priſoners in your Army, we ſhall upon the like occaſion ſhew the ſame reſpect to you, and we deſire
+<pb n="5" facs="tcp:161843:4"/>
+                     <!-- PDF PAGE 21 -->
+this Trumpeter may ſpeake with the beſt of quality of our priſoners to let them know our endeavours for their enlargement, we have detained your Trumpeter longer, by reaſon of our hourly motion and Action: My Lord we reſt,</p>
+                  <closer>
+                     <signed>Your Servants <hi>Norwich, Arthur Capel, Charles Lucas.</hi>
+                     </signed>
+                     <dateline>Colchester
+<date>Iune 15. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>On the 16 inſtant, the Trumpeter which his Excellen<g ref="char:EOLhyphen"/>cy ſent to the Lord <hi>Goring</hi> into <hi>Colcheſter,</hi> with a let<g ref="char:EOLhyphen"/>ter concerning the good uſage of Sir William <hi>Maſſam</hi> returned; who certified his Excellency that he left Sir William <hi>Maſſam,</hi> and the reſt of the Gentlemen, his fellow Priſoners, in a reaſonable good condition, and that their uſage was better then formerly. He likewiſe ſaid, that <hi>Gorings</hi> Soldiers we every much dejected, and that he heard divers of them curſe their Comman<g ref="char:EOLhyphen"/>ders that for thir owne ends had thus engaged both their lives and Fortunes. This day likewiſe, his Excel<g ref="char:EOLhyphen"/>lency ſent <hi>Gorings</hi> Trumpeter back with a Liſt of the priſoners (remaining in the cuſtody of Marſhall Gen. <hi>Laxton</hi>) that were taken in the laſt fight. <hi>viz.</hi> Col. Sir William <hi>Layton,</hi> Lieu. <hi>Robarts,</hi> Capt. Gregory <hi>Baker,</hi> Capt. <hi>Christmas,</hi> George <hi>Rawlins,</hi> Eſquire, Thomas <hi>Outing</hi> Lieu. Francis <hi>Bland</hi> Lieu. and 16 Gentlemen more, whoſe names I cannot as yet obtain. Theſe were likewiſe taken before the fight; Sir <hi>Iohn Dorrell,</hi> Col. <hi>Frances Clark, George May</hi> Gentleman, and 120 pri<g ref="char:EOLhyphen"/>vate ſoldiers, who all acknowledged themſelves to have been in actuall Armes in this late ingagment: Be<g ref="char:EOLhyphen"/>ſides thoſe priſoners, there was about 80 diſcharged, who were all pitifully wounded. On the 17 day, the Lord <hi>Goring</hi> ſent forth a pertee if his horſe to fetch in Pro<g ref="char:EOLhyphen"/>viſions
+<pb n="6" facs="tcp:161843:5"/>
+               <!-- PDF PAGE 22 -->
+for the reſt of his Army, which his Excellency having notice of by his Sco<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, he commanded forth another partee of his, how to watch for their return, which when <hi>Gorings</hi> party had ſufficien<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly as they thought ſtored themſelves with pioviſions they made their return towards <hi>Colcheſter,</hi> ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men having notice of their app<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oach, made choice of a convenient place to Charge them in, and they thinking themſelves ſe<g ref="char:EOLhyphen"/>cure, were the leſſe carefull, which gave our horſe a good opportunity ſuddingly to fall upon them, which ſudding Charge to amaze the enemy, that they im<g ref="char:EOLhyphen"/>mediately betooke themſelves to flight, leaving the proviſion which they had brought in behinde them, there were divers ſlain and ſeverall Priſoners taken, the particulars I ſhall Indeavour to ſend you with the next. On the 18 at noone there was no action, but in the morning there were divers had made eſcapes forth of the Town, and came in to proffer their ſervice to his Excellencie: who report that there is much diſtraction in the Town, and that <hi>Goring, Capel, Loughborough, Lucas</hi> &amp;c. are plotting how to make an eſcape with their horſe but their Foot fearing to be left ſo deeply engaged look very narrowly to them, and they ſhall all fare alike, come life or death. Thus Sir have you an exact relation of our daily proceedings each in its pro<g ref="char:EOLhyphen"/>per place, if the proper Language be diſpleaſing excuſe the writer, who is more Souldier then Scholler and ſhould have forborn to write, but that he is ſo much en<g ref="char:EOLunhyphen"/>gaged to your worſhip, and knowes no way to requite your Noble favours, but in acknowledging himſelfe to be,</p>
+            <closer>
+               <salute>Sir</salute> 
+               <signed>your humble ſervant<g ref="char:punc">▪</g> 
+                  <hi>E. H.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
